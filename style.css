@@ -1,0 +1,28 @@
+body {
+	margin: 30px;
+	background-color: silver;
+	color: maroon;
+}
+
+canvas {
+	height: 650px;
+	width: 900px;
+	background-color: white;
+	border: 8px solid maroon;
+}
+
+button {
+	padding: 15px 32px;
+	border: 2px solid black;
+}
+
+.center {
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
+
+#game {
+	text-align: center;
+}
+
