@@ -1,4 +1,7 @@
 # flappyBub
+![](https://img.shields.io/github/repo-size/timburr1/flappyBub)
+![](https://img.shields.io/github/contributors/timburr1/flappyBub)
+![](https://img.shields.io/github/last-commit/timburr1/flappyBub)
 
 ## TODO: 
 * Paint a background on the canvas with the background-image CSS property
