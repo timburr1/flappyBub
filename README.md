@@ -4,7 +4,7 @@
 ![](https://img.shields.io/github/last-commit/timburr1/flappyBub)
 
 ## TODO: 
-* Paint a background on the canvas with the background-image CSS property
+* Paint a background on the canvas 
 * Modify main.js to paint Mr. Bub on the canvas, and move him up and down with your keyboard
 * Download any other resources you want to use, 
 * Add the pipes, moving across the canvas from right to left
